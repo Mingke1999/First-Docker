@@ -16,3 +16,4 @@ docker exec -it Name bash
 docker run --name bootstrap2 --volumes-from Queries -d -p 8081:80 nginx
 docker build --tag website:latest .
 ```
+[Where I Learn Those](https://www.youtube.com/watch?v=Wf2eSG3owoA&t=4759s)
